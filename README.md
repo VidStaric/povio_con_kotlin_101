@@ -1,6 +1,6 @@
-#PovioCon Kotlin 101
+# PovioCon Kotlin 101
 
-##Instructions
+## Instructions
 
 * Clone the repository 
 * Open the project with IntellJ IDEA
